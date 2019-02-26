@@ -1,0 +1,25 @@
+{
+  "name": "onion",
+  "version": "1.0.0",
+  "description": "a toy interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcy0701/onion.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcy0701/onion.js/issues"
+  },
+  "homepage": "https://github.com/dcy0701/onion.js#readme",
+  "dependencies": {
+    "acorn": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
